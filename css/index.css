@@ -46,6 +46,10 @@ body {
 }
 
 
+.quiz-window .quiz-answers .quiz-radio-div label:hover {
+    font-size: 1.4rem;
+}
+
 .quiz-window .quiz-answers input{
     opacity: 0;
 }

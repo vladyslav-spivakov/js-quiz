@@ -1,0 +1,47 @@
+[
+    {
+        "number":1,
+        "question":"Коли почалася друга світова війна?",
+        "answer1":"1930",
+        "answer2":"1941",
+        "answer3":"1939",
+        "answer":3,
+        "status":""
+    }   ,
+    {
+        "number":2,
+        "question":"'Who' перекладаеться як...",
+        "answer1":"хто",
+        "answer2":"де",
+        "answer3":"коли",
+        "answer":1,
+        "status":""
+    }   ,
+    {
+        "number":3,
+        "question":"Продовжіть фразу: 'Данила, ты что вообще...'",
+        "answer1":"сумашедший",
+        "answer2":"тупой",
+        "answer3":"крейзи",
+        "answer":3,
+        "status":""
+    }   ,
+    {
+        "number":4,
+        "question":"2*2-2*2+1 =",
+        "answer1":"0",
+        "answer2":"5",
+        "answer3":"1",
+        "answer":3,
+        "status":""
+    }   ,
+    {
+        "number":5,
+        "question":"•• / •-•• --- •••- • / -•-- --- ••-!",
+        "answer1":"I like dog!",
+        "answer2":"I love you!",
+        "answer3":"U cant die!",
+        "answer":2,
+        "status":""
+    }
+]
