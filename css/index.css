@@ -1,4 +1,9 @@
 p, radio, div, body {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
     margin: 0;
     padding: 0;
 }
@@ -52,4 +57,12 @@ body {
 
 .quiz-window .quiz-answers input{
     opacity: 0;
+}
+
+.greenCorrect {
+    color: rgb(140, 0, 255);
+}
+
+.answers {
+    color: rgb(140, 0, 255);
 }
